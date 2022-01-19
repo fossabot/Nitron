@@ -7,6 +7,7 @@
 
 [![Downloads](https://img.shields.io/github/downloads/ItsQuentin-Inc/Nitron/total.svg?style=flat-square)](https://nitron.itsquentin.ml)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FItsQuentin-Inc%2FNitron.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FItsQuentin-Inc%2FNitron?ref=badge_shield)
+[![Build](https://github.com/ItsQuentin-Inc/Nitron/actions/workflows/build.yml/badge.svg?branch=master&event=workflow_run)](https://github.com/ItsQuentin-Inc/Nitron/actions/workflows/build.yml)
   
   
 Nitron Browser is a modern web browser, built on top of modern web technologies such as `Electron` and `React`!
