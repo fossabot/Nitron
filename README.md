@@ -63,8 +63,10 @@ UI compact variant:
 ![image](https://user-images.githubusercontent.com/11065386/81024252-2ddc0a80-8e73-11ea-9f2f-6c9a4a175c60.png)
 
 # Downloads
-- Stable and Beta versions [are here!](https://github.com/ItsQuentin-Inc/Nitron/releases)
+- Stable and Beta versions [are here!](https://github.com/ItsQuentin-Inc/Nitron/releases) - They are now available
 
 
 # [Roadmap](https://trello.com/b/WFoZDL6Q/nitron)
+
+
 
