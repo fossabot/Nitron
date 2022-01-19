@@ -8,7 +8,7 @@ jobs:
 
     strategy:
       matrix:
-        os: [macos-latest, windows-latest, ubuntu-latest]
+        os: [windows-latest, ubuntu-latest]
 
     steps:
       - name: Check out Git repository
@@ -35,8 +35,5 @@ jobs:
         run: yarn ci-build
         env:
           GH_TOKEN: ${{ secrets.token }}
-
-          MAC_CERTS: ${{ secrets.mac_certs }}
-          MAC_CERTS_PASSWORD: ${{ secrets.mac_certs_password }}
 
           RELEASE: ${{ contains(steps.log.outputs.message, 'bump version') }}
