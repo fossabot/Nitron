@@ -1,6 +1,6 @@
 {
-  "appId": "org.wexond.wexond",
-  "productName": "Wexond",
+  "appId": "org.itsquentin.nitron",
+  "productName": "Nitron",
   "nsis": {
     "include": "static/installer.nsh"
   },
