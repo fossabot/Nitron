@@ -44,7 +44,7 @@
   "fileAssociations": [
     {
       "name": "Document",
-      "description": "Wexond",
+      "description": "Nitron",
       "role": "Viewer",
       "ext": "html"
     }
