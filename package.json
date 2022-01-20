@@ -13,7 +13,7 @@
   ],
   "homepage": "https://github.com/ItsQuentin-Inc/Nitron",
   "main": "build/main.bundle.js",
-  "author": "Quentin Smith <quentin@itsquentin.ml>",
+  "author": "ItsQuentin Inc. <quentin@itsquentin.ml>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ItsQuentin-Inc/Nitron.git"
